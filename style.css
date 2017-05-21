@@ -1,0 +1,14 @@
+html {
+    font-size: 20px;
+    }
+
+#con
+{
+  font-size: 30px;  
+}
+
+#con > div 
+{
+    background-color: rgba (0, 225, 225, 0.6);
+    margin-bottom: 15px; 
+}
