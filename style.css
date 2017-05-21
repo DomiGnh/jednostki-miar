@@ -9,6 +9,11 @@ html {
 
 #con > div 
 {
-    background-color: rgba (0, 225, 225, 0.6);
+    background-color: rgba(0,225,225,0.6);
     margin-bottom: 15px; 
+}
+
+#pix 
+{
+    width: 400px;
 }
